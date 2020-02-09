@@ -1,0 +1,15 @@
+.order-list {
+  padding: 2rem;
+  background: #ff4356;
+}
+.order-list .table {
+  margin-top: 3rem;
+  background: #aaaaaa;
+}
+.order-form {
+  border: solid 1px #2e246e;
+  border-left: 0;
+  border-right: 0;
+  background: #a7f7a6;
+  padding: 3rem;
+}
